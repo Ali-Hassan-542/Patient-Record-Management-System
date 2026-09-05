@@ -10,7 +10,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![AdminLTE](https://img.shields.io/badge/AdminLTE%204-1F2937?style=flat)
 ![License](https://img.shields.io/badge/License-Academic-blue)
-![Status](https://img.shields.io/badge/Status-In%20Development-yellow)
+![Status](https://img.shields.io/badge/Status-%20Completed-yellow)
 
 </div>
 
